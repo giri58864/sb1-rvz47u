@@ -1,7 +1,7 @@
 import React from 'react';
 import { Scale } from 'lucide-react';
 
-function Footer() {
+export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
